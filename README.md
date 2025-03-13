@@ -1,4 +1,4 @@
-#COMO EXECUTAR?
+COMO EXECUTAR?
 instalação das Dependências:
 
 Certifique-se de ter Python instalado. Não são necessárias bibliotecas externas, pois o código utiliza apenas módulos padrão do Python.
