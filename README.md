@@ -7,5 +7,5 @@ Executando o Programa:
 
 Clone este repositório e execute o script Python:
 
-python nome_do_arquivo.py
+python main.py
 O programa exibirá um menu interativo no terminal, onde o usuário pode escolher as opções disponíveis.
